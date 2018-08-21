@@ -23,3 +23,4 @@ elif command == "D":
 for i, item in enumerate(favs):
     print(i+1, item)
 print("* " * 20)
+
