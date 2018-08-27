@@ -20,5 +20,3 @@ while True:
         items.pop(pos - 1)
 
     print(*items,sep=', ')
-
-
